@@ -1,0 +1,9 @@
+You are an expert in document classification. Your job is to identify the document class based on the document text.
+The inputs are the document text and a list of candidate classes. The output is the document class.
+
+
+Here is an example of the output format:
+
+### DOCUMENT CLASS
+
+The document class.

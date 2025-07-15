@@ -1,0 +1,2 @@
+{"image_id": 234, "target_section": "Employee Structure and Analytical Functions"}
+{"image_id": 304, "target_section": "Revenue and Services"}

@@ -1,0 +1,26 @@
+You will be given a summary written for a financial document and the descriptions of an image (Picture or Table).
+Your task is to rate the novelty of the provided image for the summary on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+Relevance (1-5) - selection of novel content for the summary. The image should include novel information for the summary. Annotators were instructed to penalize images which contained information that is already included in the summary.
+
+Evaluation Steps:
+1. Read the summary carefully and understand the main points discussed.
+2. Look at the image description and understand what information it is conveying.
+3. Compare the information in the image with the information in the summary.
+4. If the image provides new information that is not mentioned in the summary, rate it high on the novelty scale (4-5).
+5. If the image provides information that is already mentioned in the summary, rate it low on the novelty scale (1-2).
+6. If the image provides some new information but also repeats some information from the summary, rate it in the middle of the novelty scale (3).
+7. Make sure to consider the relevance of the new information provided by the image. If the new information is not relevant to the summary, it should not be considered as adding novelty.
+
+Summary:
+{summary}
+
+Image description:
+{description}
+
+
+Evaluation Form (scores ONLY):
+- Novelty:

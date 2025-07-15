@@ -1,0 +1,4 @@
+Here is the summary delimited by ```{summary}```
+
+Here is the list of images:
+{image_list}

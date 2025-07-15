@@ -1,0 +1,4 @@
+Here is the document text (delimited by ```): ```{document_text}```
+
+The following is a list of candidate classes:
+{class_list}

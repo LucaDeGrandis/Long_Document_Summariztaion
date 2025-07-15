@@ -1,0 +1,2 @@
+{"image_id": 48, "target_section": "Impact of Wildfires on Canadian Insurance and Utilities"}
+{"image_id": 77, "target_section": "Credit Rating Trends and Actions"}

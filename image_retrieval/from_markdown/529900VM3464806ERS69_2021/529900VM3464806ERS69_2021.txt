@@ -1,0 +1,2 @@
+{"image_id": 75, "target_section": "Governance and Risk Management"}
+{"image_id": 363, "target_section": "Scenario Analysis and Climate Risk Assessment"}

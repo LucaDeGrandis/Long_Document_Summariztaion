@@ -1,0 +1,2 @@
+{"image_id": 234, "target_section": "Personnel Allocation and Statistics"}
+{"image_id": 304, "target_section": "Revenue from Credit Rating Activities"}
